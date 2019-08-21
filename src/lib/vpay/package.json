@@ -1,5 +1,5 @@
 {
-  "name": "vpay",
+  "name": "vuealipay",
   "version": "1.0.3",
   "description": "基于vue项目的移动端支付密码框插件",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "vpay",
+    "vuealipay",
     "vue",
     "vue-pay",
     "pay-password",
